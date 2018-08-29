@@ -1,5 +1,6 @@
 # QutoutiaoCheater
 Read Qutoutiao text automatically
+# Just for fun
 
 使用ADB辅助和python脚本程序自动阅读趣头条的新闻
 
