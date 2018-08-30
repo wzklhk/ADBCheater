@@ -19,6 +19,7 @@ def swipe_screen(start_xy, end_xy):
 	
 	
 def tap_screen(xy):
+	""""""
 	cmd = "adb shell input tap " \
 		+ str(xy[0]) + " " \
 		+ str(xy[1]) + " " \
