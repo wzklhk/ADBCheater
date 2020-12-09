@@ -4,6 +4,7 @@ from ADBCmd import *
 
 SCREEN_LENGTH = 1920
 SCREEN_WIDTH = 1080
+DIFF = 20
 
 
 def main():
