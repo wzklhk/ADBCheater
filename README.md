@@ -2,7 +2,7 @@
 
 Operating Android automatically
 
-## 趣头条自动阅读器
+## Android自动操作小脚本
 
 Just for fun
 
